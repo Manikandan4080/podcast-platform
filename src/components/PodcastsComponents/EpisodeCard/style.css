@@ -1,0 +1,5 @@
+.episode-details{
+    border: 1px solid var(--white);
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}

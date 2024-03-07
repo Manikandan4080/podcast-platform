@@ -1,0 +1,11 @@
+.signup-login{
+    margin-top: 2rem;
+  color: #538cfe;
+  cursor: pointer;
+  margin-left: 5px;
+  transition: all .25s;
+}
+
+.signup-login:hover{
+    color: #fff;
+  }
